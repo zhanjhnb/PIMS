@@ -1,1 +1,1 @@
-# script for generate PIMS clinical result analysis, methylome comparision and ML-prediction model
+# script for generate PIMS clinical result, methylome comparision and ML-prediction model
